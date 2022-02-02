@@ -1,0 +1,20 @@
+To write as way to be correct could go have
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <tetris.h>
+#include <termios.h>
+#include <signal.h>
+#include <time.h>
+#include <fcntl.h>
+
+the #include directive tells the preprocessor
+to insert the contents of another file into
+the source code at the point where the #include directive is found.
+
+After of this,declaration of data structured such as requested using
+the C language:
+
+Structured types in C: vectors (or arrays) • records (struct)
+
+In general, they are defined by means of suitable constructors.
